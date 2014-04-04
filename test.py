@@ -14,10 +14,10 @@ print "Testing various string distance with Winkler Jaro"
 print
 
 
-string1="josh"
-string2="Joshua"
-string3="Joshalot"
-string4="Peter"
+string1="Josh Cohen"
+string2="Joshua Cohen"
+string3="Joshalot Cohen"
+string4="Peter Smith"
 
 print "{0} vs {1} = {2}".format(
 	string1,string1,winkler_jaro.compare(string1,string1))
