@@ -20,6 +20,8 @@ string3="Joshalot"
 string4="Peter"
 
 print "{0} vs {1} = {2}".format(
+	string1,string1,winkler_jaro.compare(string1,string1))
+print "{0} vs {1} = {2}".format(
 	string1,string2,winkler_jaro.compare(string1,string2))
 print "{0} vs {1} = {2}".format(
 	string1,string3,winkler_jaro.compare(string1,string3))
