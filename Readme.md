@@ -8,7 +8,11 @@ You get to decide what your threshold is for how much equality you need.
 Check out test.py for examples
 
 # Marriage Hero
-This implementation was created and adapted for Washington United for Marriage / Approve74
+This implementation was created and adapted for Marriage Hero, Washington United for Marriage / Approve74
+
+http://www.friendvote.washingtonunitedformarriage.org/
+
 http://washingtonunitedformarriage.org
+
 
 
