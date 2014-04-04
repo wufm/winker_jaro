@@ -7,6 +7,18 @@ You get to decide what your threshold is for how much equality you need.
 
 Check out test.py for examples
 
+# Test Output
+from test.py
+
+````
+Testing various string distance with Winkler Jaro
+
+josh vs josh = 1.0
+josh vs Joshua = 0.75
+josh vs Joshalot = 0.708333333333
+josh vs Peter = 0.0
+````
+
 # Marriage Hero
 This implementation was created and adapted for Marriage Hero, Washington United for Marriage / Approve74
 
